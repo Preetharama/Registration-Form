@@ -8,6 +8,7 @@ A Java Swing-based desktop application developed using NetBeans IDE. It allows u
 User-friendly GUI with text fields for input.
 
 **"Submit"** =>button to save data to the database.
+
 **"Cancel"** => button to clear the form.
 
 # Technical Details:
@@ -31,6 +32,7 @@ Database Connection: Uses DriverManager to connect to Oracle database.
 
 **Event Handling:** 
 Handles button clicks to either submit data or clear form fields.
+
 **Error Handling:** 
 Displays success or failure messages using JOptionPane.
 
